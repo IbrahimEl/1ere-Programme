@@ -50,7 +50,7 @@ public class Livre extends  Article{
 
 	@Override
 	public String toString() {
-		return "Livre [auteur=" + auteur + ", titre=" + titre + ", editeur=" + editeur + ", toString()="
+		return "Livre [auteur=" + auteur + ", bonjour titre=" + titre + ", editeur=" + editeur + ", toString()="
 				+ super.toString() + "]";
 	}
 
